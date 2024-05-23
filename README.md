@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a front-end engineer specializing in building exceptional digital experiences. Currently, I'm focused on building accessible, scalable and human-centered products at HiveGroup, focusing on user experience. Acting in the construction and maintenance of project management systems, Landing Pages and websites.
+As a Frontend Tech Leader, I bring extensive experience in building and leading high-performance development teams, guiding and inspiring them to excel. I foster a collaborative and trust-based environment where each team member feels valued and empowered to reach their full potential.
 
-My main focus these days is building products for our clients at HiveGroup. In my free time I like to play video games, play drums, hang out with my wife and build personal projects.
-
-![image](https://github.com/Tryelson/tryelson/assets/28828116/cbccc7bc-23de-4342-b3f5-7b29b7dd8f92)
+My leadership is defined by empathy, respect, and a commitment to continuous growth, both personal and professional, for all team members. Additionally, as a frontend specialist, I have extensive experience in developing web applications and enhancing user experience.
